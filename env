@@ -1,7 +1,7 @@
-APP_URL=http://in.localhost:8003/
-APP_KEY=<insert your generated key in here>
-APP_DEBUG=true
-EXPANDED_LOGGING=true
+APP_URL=http://invoice.hxrsmurf.info/
+APP_KEY=
+APP_DEBUG=false
+EXPANDED_LOGGING=false
 MULTI_DB_ENABLED=false
 DB_HOST1=db
 DB_PORT1=3306
